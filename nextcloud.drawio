@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.1.1">
   <diagram name="Page-1" id="Yay8gkdrrfTUArw_L0t_">
-    <mxGraphModel dx="1155" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="2005" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YleI4EzTrmfIdfU0BML3-26" value="Batam" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="24" y="240" width="334" height="290" as="geometry" />
+          <mxGeometry x="-10" y="230" width="406" height="290" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-27" target="YleI4EzTrmfIdfU0BML3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="133" y="260" width="197" height="100" as="geometry" />
+          <mxGeometry x="180" y="246" width="197" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-15" target="YleI4EzTrmfIdfU0BML3-6">
           <mxGeometry relative="1" as="geometry" />
@@ -32,13 +32,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-7" value="Ansible Server&lt;br&gt;SVEPE0078" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="167" y="270" width="28" height="52" as="geometry" />
+          <mxGeometry x="214" y="256" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-8" value="Updater Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
           <mxGeometry x="99" y="400" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-10" value="GitLab Server&lt;br&gt;SVEPE0070" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="265" y="270" width="28" height="52" as="geometry" />
+          <mxGeometry x="312" y="256" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-4" target="YleI4EzTrmfIdfU0BML3-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -86,6 +86,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-10" target="YleI4EzTrmfIdfU0BML3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YleI4EzTrmfIdfU0BML3-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.641;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-7" target="YleI4EzTrmfIdfU0BML3-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

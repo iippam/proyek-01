@@ -80,10 +80,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-30" value="&lt;b&gt;Batam&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="177" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="199" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-31" value="&lt;b&gt;New Location&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="571" y="180" width="110" height="30" as="geometry" />
+          <mxGeometry x="615" y="180" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00FF00;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-10" target="YleI4EzTrmfIdfU0BML3-22">
           <mxGeometry relative="1" as="geometry" />

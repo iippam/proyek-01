@@ -65,7 +65,7 @@
           <mxGeometry x="620" y="389" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-20" value="Repo Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="730" y="258" width="28" height="52" as="geometry" />
+          <mxGeometry x="740" y="359" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-22" value="Updater Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
           <mxGeometry x="543" y="310" width="28" height="52" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="161" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-31" value="&lt;b&gt;New Location&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="190" width="110" height="30" as="geometry" />
+          <mxGeometry x="530" y="210" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-10" target="YleI4EzTrmfIdfU0BML3-22">
           <mxGeometry relative="1" as="geometry" />

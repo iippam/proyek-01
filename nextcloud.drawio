@@ -8,51 +8,51 @@
           <mxGeometry x="530" y="230" width="310" height="214" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="50" y="226" width="450" height="344" as="geometry" />
+          <mxGeometry x="30" y="226" width="450" height="344" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-27" target="YleI4EzTrmfIdfU0BML3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="360" y="241" width="116" height="229" as="geometry" />
+          <mxGeometry x="340" y="241" width="116" height="229" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-15" target="YleI4EzTrmfIdfU0BML3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="60" y="410" width="270" height="130" as="geometry" />
+          <mxGeometry x="40" y="410" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-4" value="Nextcloud" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="181" y="440" width="28" height="52" as="geometry" />
+          <mxGeometry x="161" y="440" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-5" value="Mail Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="261" y="440" width="28" height="52" as="geometry" />
+          <mxGeometry x="241" y="440" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-6" value="Repo Server&lt;div&gt;SVEPE0071&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="179" y="270" width="28" height="52" as="geometry" />
+          <mxGeometry x="159" y="270" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-7" target="YleI4EzTrmfIdfU0BML3-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-7" value="Ansible Server&lt;br&gt;SVEPE0078" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="404" y="350" width="28" height="52" as="geometry" />
+          <mxGeometry x="384" y="350" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-8" value="Updater Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="103" y="440" width="28" height="52" as="geometry" />
+          <mxGeometry x="83" y="440" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-10" value="GitLab Server&lt;br&gt;SVEPE0070" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="404" y="254" width="28" height="52" as="geometry" />
+          <mxGeometry x="384" y="254" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-4" target="YleI4EzTrmfIdfU0BML3-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="251" y="430" as="sourcePoint" />
-            <mxPoint x="301" y="380" as="targetPoint" />
+            <mxPoint x="231" y="430" as="sourcePoint" />
+            <mxPoint x="281" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="129" y="465.66" as="sourcePoint" />
-            <mxPoint x="181" y="465.66" as="targetPoint" />
+            <mxPoint x="109" y="465.66" as="sourcePoint" />
+            <mxPoint x="161" y="465.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-17" target="YleI4EzTrmfIdfU0BML3-20">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-30" value="&lt;b&gt;Batam&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="207" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="187" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-31" value="&lt;b&gt;New Location&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="581" y="180" width="110" height="30" as="geometry" />
@@ -93,8 +93,8 @@
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00FF00;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-10" target="YleI4EzTrmfIdfU0BML3-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-70" y="370.24" as="sourcePoint" />
-            <mxPoint x="166" y="416.24" as="targetPoint" />
+            <mxPoint x="-90" y="370.24" as="sourcePoint" />
+            <mxPoint x="146" y="416.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

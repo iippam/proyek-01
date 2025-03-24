@@ -29,7 +29,7 @@
           <mxGeometry x="231" y="440" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-6" value="Repo Server&lt;div&gt;SVEPE0071&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
-          <mxGeometry x="151" y="270" width="28" height="52" as="geometry" />
+          <mxGeometry x="151" y="272" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF3333;strokeWidth=2;" parent="1" source="YleI4EzTrmfIdfU0BML3-7" target="YleI4EzTrmfIdfU0BML3-17" edge="1">
           <mxGeometry relative="1" as="geometry" />

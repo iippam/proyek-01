@@ -56,7 +56,7 @@
           <mxGeometry x="656" y="343" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-20" value="Repo Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
-          <mxGeometry x="790" y="307" width="28" height="52" as="geometry" />
+          <mxGeometry x="781" y="307" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-22" value="Updater Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
           <mxGeometry x="612" y="251" width="28" height="52" as="geometry" />

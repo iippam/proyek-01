@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="550" y="241" width="174" height="184" as="geometry" />
+          <mxGeometry x="550" y="241" width="170" height="184" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-18" value="Nextcloud" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
           <mxGeometry x="579" y="343" width="28" height="52" as="geometry" />

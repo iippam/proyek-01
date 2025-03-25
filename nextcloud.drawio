@@ -8,7 +8,7 @@
           <mxGeometry x="530" y="230" width="310" height="214" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="20" y="226" width="450" height="314" as="geometry" />
+          <mxGeometry x="20" y="226" width="450" height="284" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="YleI4EzTrmfIdfU0BML3-27" target="YleI4EzTrmfIdfU0BML3-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -20,13 +20,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="43" y="380" width="245" height="140" as="geometry" />
+          <mxGeometry x="43" y="380" width="245" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-4" value="Nextcloud" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
-          <mxGeometry x="158" y="440" width="28" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="YleI4EzTrmfIdfU0BML3-5" value="Mail Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
-          <mxGeometry x="231" y="440" width="28" height="52" as="geometry" />
+          <mxGeometry x="146.5" y="405" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-6" value="Repo Server&lt;div&gt;SVEPE0071&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
           <mxGeometry x="151" y="272" width="28" height="52" as="geometry" />
@@ -35,28 +32,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-7" value="Ansible Server&lt;br&gt;SVEPE0078" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
-          <mxGeometry x="374" y="353" width="28" height="52" as="geometry" />
+          <mxGeometry x="374" y="372" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-8" value="Updater Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
-          <mxGeometry x="78" y="440" width="28" height="52" as="geometry" />
+          <mxGeometry x="221.5" y="405" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=light-dark(#063fea, #ededed);" parent="1" source="YleI4EzTrmfIdfU0BML3-10" target="YleI4EzTrmfIdfU0BML3-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-10" value="GitLab Server&lt;br&gt;SVEPE0070" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
           <mxGeometry x="374" y="250" width="28" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="YleI4EzTrmfIdfU0BML3-13" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="YleI4EzTrmfIdfU0BML3-4" target="YleI4EzTrmfIdfU0BML3-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="221" y="430" as="sourcePoint" />
-            <mxPoint x="271" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YleI4EzTrmfIdfU0BML3-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.071;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YleI4EzTrmfIdfU0BML3-8" target="YleI4EzTrmfIdfU0BML3-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="466" as="sourcePoint" />
-            <mxPoint x="151" y="465.66" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="YleI4EzTrmfIdfU0BML3-17" target="YleI4EzTrmfIdfU0BML3-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -91,13 +76,22 @@
         <mxCell id="YleI4EzTrmfIdfU0BML3-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00FF00;strokeWidth=2;" parent="1" source="YleI4EzTrmfIdfU0BML3-10" target="YleI4EzTrmfIdfU0BML3-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YleI4EzTrmfIdfU0BML3-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;strokeWidth=2;" parent="1" source="YleI4EzTrmfIdfU0BML3-7" target="YleI4EzTrmfIdfU0BML3-15" edge="1">
+        <mxCell id="YleI4EzTrmfIdfU0BML3-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF3333;strokeWidth=2;" parent="1" source="YleI4EzTrmfIdfU0BML3-7" target="YleI4EzTrmfIdfU0BML3-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00FF00;strokeWidth=2;" parent="1" source="YleI4EzTrmfIdfU0BML3-10" target="YleI4EzTrmfIdfU0BML3-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-100" y="370.24" as="sourcePoint" />
             <mxPoint x="136" y="416.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YleI4EzTrmfIdfU0BML3-5" value="Mail Server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" parent="1" vertex="1">
+          <mxGeometry x="70" y="405" width="28" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="_Qi4FFikxDaYqBzjDGvD-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-5" target="YleI4EzTrmfIdfU0BML3-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="480" as="sourcePoint" />
+            <mxPoint x="150" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

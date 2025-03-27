@@ -13,11 +13,6 @@
         <mxCell id="YleI4EzTrmfIdfU0BML3-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="YleI4EzTrmfIdfU0BML3-27" target="YleI4EzTrmfIdfU0BML3-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LJ19qlyb9JyAHf1ptp08-3" value="Port 80 / 443" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YleI4EzTrmfIdfU0BML3-45">
-          <mxGeometry x="0.2005" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="330" y="241" width="116" height="229" as="geometry" />
         </mxCell>

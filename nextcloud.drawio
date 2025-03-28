@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5DlNykU0bZBDUD3FCUw8-12" value="Checkpoint DMZ" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.firewall" vertex="1" parent="1">
-          <mxGeometry x="135.5" y="360" width="50" height="44" as="geometry" />
+          <mxGeometry x="135.5" y="357" width="50" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

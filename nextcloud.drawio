@@ -121,6 +121,11 @@
         <mxCell id="5DlNykU0bZBDUD3FCUw8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5DlNykU0bZBDUD3FCUw8-2" target="5DlNykU0bZBDUD3FCUw8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5DlNykU0bZBDUD3FCUw8-9" value="80 / 443" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5DlNykU0bZBDUD3FCUw8-6">
+          <mxGeometry x="-0.241" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5DlNykU0bZBDUD3FCUw8-2" value="Repo Server&lt;div&gt;SVBT8071&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
           <mxGeometry x="65" y="260" width="28" height="52" as="geometry" />
         </mxCell>

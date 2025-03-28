@@ -118,8 +118,11 @@
         <mxCell id="5DlNykU0bZBDUD3FCUw8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="15" y="90" width="450" height="284" as="geometry" />
         </mxCell>
+        <mxCell id="5DlNykU0bZBDUD3FCUw8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5DlNykU0bZBDUD3FCUw8-2" target="5DlNykU0bZBDUD3FCUw8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5DlNykU0bZBDUD3FCUw8-2" value="Repo Server&lt;div&gt;SVBT8071&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="28" height="52" as="geometry" />
+          <mxGeometry x="65" y="260" width="28" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5DlNykU0bZBDUD3FCUw8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-6" target="5DlNykU0bZBDUD3FCUw8-2">
           <mxGeometry relative="1" as="geometry" />
@@ -128,6 +131,15 @@
           <mxGeometry x="0.1096" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5DlNykU0bZBDUD3FCUw8-5" value="Local Proxy Server" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="45.05" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="5DlNykU0bZBDUD3FCUw8-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="50" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5DlNykU0bZBDUD3FCUw8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5DlNykU0bZBDUD3FCUw8-5" target="5DlNykU0bZBDUD3FCUw8-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

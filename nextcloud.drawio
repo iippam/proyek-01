@@ -134,7 +134,7 @@
         </mxCell>
         <mxCell id="5DlNykU0bZBDUD3FCUw8-4" value="443" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5DlNykU0bZBDUD3FCUw8-3">
           <mxGeometry x="0.1096" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5DlNykU0bZBDUD3FCUw8-5" value="Local Proxy Server" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="1">

@@ -37,7 +37,7 @@
         <mxCell id="ynbUYO4sn585GT9K957H-3" value="WAPT Server&lt;div&gt;Rustdesk Controller&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
           <mxGeometry x="90.75" y="590" width="50" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="ynbUYO4sn585GT9K957H-1" value="Rustdesk Server&lt;br&gt;SVEPE0097&lt;div&gt;Signaling Server&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+        <mxCell id="ynbUYO4sn585GT9K957H-1" value="Rustdesk Server&lt;br&gt;&lt;div&gt;Signaling Server&lt;br&gt;Rustdesk API Server&lt;br&gt;SVEPE0097&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="73" y="319.2" width="80" height="73.6" as="geometry" />
         </mxCell>
         <mxCell id="ynbUYO4sn585GT9K957H-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#B20000;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;" edge="1" parent="1">

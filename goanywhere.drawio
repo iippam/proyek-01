@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_s0eA9olQBRWRWWSmCxI-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="694.36" y="75" width="136.27" height="122" as="geometry" />
         </mxCell>
         <mxCell id="ynbUYO4sn585GT9K957H-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -71,7 +71,7 @@
         <mxCell id="_s0eA9olQBRWRWWSmCxI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_s0eA9olQBRWRWWSmCxI-12" target="_s0eA9olQBRWRWWSmCxI-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_s0eA9olQBRWRWWSmCxI-12" value="&lt;div&gt;Machine PC&lt;br&gt;PCEPEXXXXX&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;points=[];aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-12" value="&lt;div&gt;Machine Network&lt;br&gt;PCEPEXXXXX&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;points=[];aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="261" y="392" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="_s0eA9olQBRWRWWSmCxI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_s0eA9olQBRWRWWSmCxI-18" target="_s0eA9olQBRWRWWSmCxI-12">

@@ -35,11 +35,6 @@
         <mxCell id="YleI4EzTrmfIdfU0BML3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="438" y="312" width="251" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_s0eA9olQBRWRWWSmCxI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="881.5" y="892" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-10" value="&lt;div&gt;Office Client 02&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;points=[];" parent="1" vertex="1">
           <mxGeometry x="856" y="760" width="51" height="52" as="geometry" />
         </mxCell>

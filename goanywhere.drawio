@@ -44,7 +44,7 @@
         <mxCell id="YleI4EzTrmfIdfU0BML3-31" value="&lt;b&gt;Machine Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="849" y="40" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ynbUYO4sn585GT9K957H-3" value="WAPT Server&lt;div&gt;Rustdesk Controller&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="1" vertex="1">
+        <mxCell id="ynbUYO4sn585GT9K957H-3" value="WAPT Server&lt;div&gt;Rustdesk Controller&lt;/div&gt;" style="sketch=0;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;shape=image;labelBackgroundColor=default;verticalAlign=top;verticalLabelPosition=bottom;points=[];" parent="1" vertex="1">
           <mxGeometry x="121.75" y="332" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ynbUYO4sn585GT9K957H-1" value="GoAnywhere Server" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="1" vertex="1">
@@ -85,6 +85,44 @@
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-24" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-1" value="GoAnywhere Server&lt;br&gt;SVEPE9067" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="322" y="480" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-2" value="File Server Prod&lt;br&gt;SVEPE0163" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="511" y="650" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-3" value="File Server Transfer&lt;br&gt;SVEPE9150" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="144" y="480" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_s0eA9olQBRWRWWSmCxI-5" target="_s0eA9olQBRWRWWSmCxI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-5" value="Firewall" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=firewall;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="504" y="478" width="64" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_s0eA9olQBRWRWWSmCxI-1" target="_s0eA9olQBRWRWWSmCxI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.92;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_s0eA9olQBRWRWWSmCxI-1" target="_s0eA9olQBRWRWWSmCxI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="256" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-12" value="&lt;div&gt;Machine PC&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;points=[];aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="321" y="776" width="51" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=1.152;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_s0eA9olQBRWRWWSmCxI-12" target="_s0eA9olQBRWRWWSmCxI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_s0eA9olQBRWRWWSmCxI-18" target="_s0eA9olQBRWRWWSmCxI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-18" value="Firewall&lt;br&gt;SMB 445" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=firewall;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="315" y="624" width="64" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_s0eA9olQBRWRWWSmCxI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_s0eA9olQBRWRWWSmCxI-1" target="_s0eA9olQBRWRWWSmCxI-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -44,7 +44,7 @@
           <mxGeometry x="440" y="540" width="251" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-10" value="&lt;div&gt;Rustdesk Agent&lt;/div&gt;Production PC" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;points=[];" parent="1" vertex="1">
-          <mxGeometry x="605" y="556" width="51" height="52" as="geometry" />
+          <mxGeometry x="614" y="556" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="856.53" y="339" width="118.95" height="110" as="geometry" />
@@ -59,13 +59,13 @@
           <mxGeometry x="303" y="338.2" width="80" height="73.6" as="geometry" />
         </mxCell>
         <mxCell id="ynbUYO4sn585GT9K957H-8" value="&lt;div&gt;&lt;b&gt;No P2P Connections!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="630" width="180" height="30" as="geometry" />
+          <mxGeometry x="240" y="618" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ynbUYO4sn585GT9K957H-11" value="&lt;div&gt;Rustdesk Agent&lt;/div&gt;Machine PC" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;points=[];aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
           <mxGeometry x="889.48" y="339.8" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ynbUYO4sn585GT9K957H-15" value="&lt;div&gt;Rustdesk Agent&lt;/div&gt;Production PC" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;points=[];aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
-          <mxGeometry x="480" y="554" width="51" height="52" as="geometry" />
+          <mxGeometry x="468" y="554" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ynbUYO4sn585GT9K957H-20" target="YleI4EzTrmfIdfU0BML3-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -74,13 +74,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;" vertex="1" parent="1">
-          <mxGeometry x="303" y="575" width="50" height="50" as="geometry" />
+          <mxGeometry x="306" y="577" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-19" value="&lt;b&gt;Production Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="328.75" y="270" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-20" value="&lt;b&gt;All connections monitored via server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="475" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iATs5-p0Ry6HwTi2f4iV-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ynbUYO4sn585GT9K957H-15" target="YleI4EzTrmfIdfU0BML3-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="806.73" y="565" as="sourcePoint" />
+            <mxPoint x="1023.73" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iATs5-p0Ry6HwTi2f4iV-22" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;" vertex="1" parent="1">
+          <mxGeometry x="552.14" y="566.64" width="26.73" height="26.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -50,7 +50,7 @@
           <mxGeometry x="856.53" y="339" width="118.95" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-31" value="&lt;b&gt;Machine Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="861" y="261" width="110" height="30" as="geometry" />
+          <mxGeometry x="861" y="268" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ynbUYO4sn585GT9K957H-3" value="WAPT Server&lt;div&gt;Rustdesk Controller&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="1" vertex="1">
           <mxGeometry x="131.75" y="560" width="50" height="46" as="geometry" />

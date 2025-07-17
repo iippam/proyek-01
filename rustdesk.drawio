@@ -58,7 +58,7 @@
         <mxCell id="ynbUYO4sn585GT9K957H-1" value="Rustdesk Server&lt;br&gt;&lt;div&gt;Signaling Server&lt;br&gt;Rustdesk API Server&lt;br&gt;SVEPE0097&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="1" vertex="1">
           <mxGeometry x="303" y="338.2" width="80" height="73.6" as="geometry" />
         </mxCell>
-        <mxCell id="ynbUYO4sn585GT9K957H-8" value="&lt;div&gt;&lt;b&gt;No P2P&lt;/b&gt;&lt;/div&gt;&lt;b&gt;All connections monitored via server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ynbUYO4sn585GT9K957H-8" value="&lt;div&gt;&lt;b&gt;No P2P Connections!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="603" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ynbUYO4sn585GT9K957H-11" value="&lt;div&gt;Rustdesk Agent&lt;/div&gt;Machine PC" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;points=[];aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-19" value="&lt;b&gt;Production Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="328.75" y="270" width="142.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iATs5-p0Ry6HwTi2f4iV-20" value="&lt;b&gt;All connections monitored via server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="475" width="215" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

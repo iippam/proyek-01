@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-8" value="&lt;b&gt;HTTPS 443&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iATs5-p0Ry6HwTi2f4iV-7" vertex="1" connectable="0">
           <mxGeometry x="-0.6002" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-9" as="offset" />
+            <mxPoint x="-2" y="-45" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HWF5bPFHuASDPKqARBnk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ynbUYO4sn585GT9K957H-20" target="YleI4EzTrmfIdfU0BML3-27">
@@ -48,7 +48,7 @@
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-5" value="&lt;b&gt;HTTPS 443&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iATs5-p0Ry6HwTi2f4iV-2" vertex="1" connectable="0">
           <mxGeometry x="-0.4345" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="18" as="offset" />
+            <mxPoint x="1" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -61,7 +61,7 @@
           <mxGeometry x="659.03" y="-763" width="118.95" height="101" as="geometry" />
         </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-31" value="&lt;b&gt;Machine Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="662.5" y="-824" width="110" height="30" as="geometry" />
+          <mxGeometry x="662.5" y="-818" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ynbUYO4sn585GT9K957H-3" value="&lt;div&gt;WAPT Console&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="1" vertex="1">
           <mxGeometry x="162.75" y="-497.75" width="50" height="46" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="426" y="-503.75" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-19" value="&lt;b&gt;Production Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="257.5" y="-583.75" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="273.5" y="-583.75" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HWF5bPFHuASDPKqARBnk-2" value="&lt;b&gt;Transfer Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="293.75" y="-817.75" width="110" height="30" as="geometry" />

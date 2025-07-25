@@ -83,7 +83,7 @@
           <mxGeometry x="797" y="383" width="66.75" height="61.41" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-26" value="&lt;b&gt;Office Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="419.5" y="40" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="419.5" y="46" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-30" value="&lt;b&gt;Transfer Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="419.5" y="560" width="142.5" height="30" as="geometry" />

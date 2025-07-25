@@ -71,7 +71,7 @@
           <mxGeometry x="189" y="363.2" width="80" height="73.6" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-18" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="136" y="304" width="180" height="30" as="geometry" />
+          <mxGeometry x="143" y="304" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-19" value="SVEPE-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="621" y="380.3" width="66.75" height="61.41" as="geometry" />
@@ -120,7 +120,7 @@
           <mxGeometry x="189" y="609.2" width="80" height="73.6" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-38" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="136" y="560" width="180" height="30" as="geometry" />
+          <mxGeometry x="143" y="560" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-39" value="SVEPE-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="621" y="626.3" width="66.75" height="61.41" as="geometry" />

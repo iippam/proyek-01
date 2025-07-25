@@ -61,13 +61,13 @@
         <mxCell id="KJ8qABfEN3y5GjXMAreh-18" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="382" y="424" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KJ8qABfEN3y5GjXMAreh-19" value="SVBT-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-19" value="SVEPE-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="621" y="380.3" width="66.75" height="61.41" as="geometry" />
         </mxCell>
-        <mxCell id="KJ8qABfEN3y5GjXMAreh-20" value="SVBT-02" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-20" value="SVEPE-02" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="709" y="380.3" width="66.75" height="61.41" as="geometry" />
         </mxCell>
-        <mxCell id="KJ8qABfEN3y5GjXMAreh-21" value="SVBT-03" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-21" value="SVEPE-03" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="797" y="383" width="66.75" height="61.41" as="geometry" />
         </mxCell>
       </root>

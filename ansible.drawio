@@ -16,6 +16,11 @@
         <mxCell id="KJ8qABfEN3y5GjXMAreh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YleI4EzTrmfIdfU0BML3-15" target="ynbUYO4sn585GT9K957H-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-28" value="&lt;b&gt;SSH 22&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ8qABfEN3y5GjXMAreh-11">
+          <mxGeometry x="0.0194" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YleI4EzTrmfIdfU0BML3-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="166" y="90" width="130" height="134" as="geometry" />
         </mxCell>
@@ -26,7 +31,7 @@
           <mxGeometry x="419.5" y="314" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-24" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="382" y="160" width="180" height="30" as="geometry" />
+          <mxGeometry x="376" y="168" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-1" value="SVBT-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="621" y="116.30000000000001" width="66.75" height="61.41" as="geometry" />
@@ -49,8 +54,18 @@
         <mxCell id="KJ8qABfEN3y5GjXMAreh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KJ8qABfEN3y5GjXMAreh-16" target="KJ8qABfEN3y5GjXMAreh-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-29" value="&lt;b&gt;SSH 22&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ8qABfEN3y5GjXMAreh-15">
+          <mxGeometry x="0.0065" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KJ8qABfEN3y5GjXMAreh-16" target="YleI4EzTrmfIdfU0BML3-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-27" value="&lt;b&gt;HTTPS 443&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ8qABfEN3y5GjXMAreh-25">
+          <mxGeometry x="-0.0769" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="166" y="354" width="130" height="134" as="geometry" />
@@ -59,7 +74,7 @@
           <mxGeometry x="189" y="363.2" width="80" height="73.6" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-18" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="382" y="424" width="180" height="30" as="geometry" />
+          <mxGeometry x="368" y="432" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-19" value="SVEPE-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="621" y="380.3" width="66.75" height="61.41" as="geometry" />

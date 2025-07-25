@@ -23,7 +23,7 @@
           <mxGeometry x="189" y="99.19999999999999" width="80" height="73.6" as="geometry" />
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-19" value="&lt;b&gt;Production Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="392" y="296" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="419.5" y="314" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-24" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="382" y="160" width="180" height="30" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="KJ8qABfEN3y5GjXMAreh-9" value="SVBT-03" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="797" y="119" width="66.75" height="61.41" as="geometry" />
         </mxCell>
-        <mxCell id="KJ8qABfEN3y5GjXMAreh-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="96" y="344" width="838" height="168" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KJ8qABfEN3y5GjXMAreh-14" target="KJ8qABfEN3y5GjXMAreh-16">
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-21" value="SVEPE-03" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="797" y="383" width="66.75" height="61.41" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-26" value="&lt;b&gt;Office Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="419.5" y="40" width="142.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -30,9 +30,6 @@
         <mxCell id="iATs5-p0Ry6HwTi2f4iV-19" value="&lt;b&gt;Production Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="419.5" y="314" width="142.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iATs5-p0Ry6HwTi2f4iV-24" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="376" y="168" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-1" value="SVBT-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="621" y="116.30000000000001" width="66.75" height="61.41" as="geometry" />
         </mxCell>

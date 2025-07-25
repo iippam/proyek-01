@@ -40,21 +40,10 @@
           <mxGeometry x="797" y="119" width="66.75" height="61.41" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="96" y="344" width="838" height="168" as="geometry" />
-        </mxCell>
-        <mxCell id="KJ8qABfEN3y5GjXMAreh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KJ8qABfEN3y5GjXMAreh-14" target="KJ8qABfEN3y5GjXMAreh-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="96" y="344" width="838" height="152" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="606" y="369" width="271" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="KJ8qABfEN3y5GjXMAreh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KJ8qABfEN3y5GjXMAreh-16" target="KJ8qABfEN3y5GjXMAreh-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KJ8qABfEN3y5GjXMAreh-29" value="&lt;b&gt;SSH 22&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ8qABfEN3y5GjXMAreh-15">
-          <mxGeometry x="0.0065" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="607" y="364" width="271" height="104" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KJ8qABfEN3y5GjXMAreh-16" target="YleI4EzTrmfIdfU0BML3-15">
           <mxGeometry relative="1" as="geometry" />
@@ -65,22 +54,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="166" y="354" width="130" height="134" as="geometry" />
+          <mxGeometry x="166" y="354" width="130" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="KJ8qABfEN3y5GjXMAreh-17" value="APT Mirror Server&lt;div&gt;Ansible Controller&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-17" value="APT Mirror Server" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="189" y="363.2" width="80" height="73.6" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-18" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="143" y="304" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-19" value="SVEPE-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
-          <mxGeometry x="621" y="380.3" width="66.75" height="61.41" as="geometry" />
+          <mxGeometry x="622" y="375.3" width="66.75" height="61.41" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-20" value="SVEPE-02" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
-          <mxGeometry x="709" y="380.3" width="66.75" height="61.41" as="geometry" />
+          <mxGeometry x="710" y="375.3" width="66.75" height="61.41" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-21" value="SVEPE-03" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
-          <mxGeometry x="797" y="383" width="66.75" height="61.41" as="geometry" />
+          <mxGeometry x="798" y="378" width="66.75" height="61.41" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-26" value="&lt;b&gt;Office Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="419.5" y="46" width="142.5" height="30" as="geometry" />
@@ -89,7 +78,7 @@
           <mxGeometry x="419.5" y="560" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="96" y="590" width="838" height="168" as="geometry" />
+          <mxGeometry x="96" y="590" width="838" height="162" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="KJ8qABfEN3y5GjXMAreh-33" target="KJ8qABfEN3y5GjXMAreh-36" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -120,7 +109,7 @@
           <mxGeometry x="189" y="609.2" width="80" height="73.6" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-38" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="143" y="560" width="180" height="30" as="geometry" />
+          <mxGeometry x="143" y="552" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-39" value="SVEPE-01" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="621" y="626.3" width="66.75" height="61.41" as="geometry" />
@@ -130,6 +119,12 @@
         </mxCell>
         <mxCell id="KJ8qABfEN3y5GjXMAreh-41" value="SVEPE-03" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="797" y="629" width="66.75" height="61.41" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="384" y="354" width="130" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ8qABfEN3y5GjXMAreh-46" value="&lt;div&gt;Ansible Controller&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="407" y="363.2" width="80" height="73.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

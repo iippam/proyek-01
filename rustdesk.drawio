@@ -52,7 +52,7 @@
         <mxCell id="YleI4EzTrmfIdfU0BML3-31" value="&lt;b&gt;Machine Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="849" y="40" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ynbUYO4sn585GT9K957H-3" value="WAPT Console&lt;div&gt;Rustdesk Controller&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="1" vertex="1">
+        <mxCell id="ynbUYO4sn585GT9K957H-3" value="WAPT Console&lt;div&gt;Rustdesk Controller&lt;/div&gt;&lt;div&gt;SVEPE0113&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="1" vertex="1">
           <mxGeometry x="121.75" y="332" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ynbUYO4sn585GT9K957H-1" value="Rustdesk Server&lt;br&gt;&lt;div&gt;Signaling Server&lt;br&gt;HTTPS API Server&lt;br&gt;&lt;b&gt;SVEPE0097&lt;/b&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="1" vertex="1">

@@ -138,7 +138,7 @@
         </mxCell>
         <mxCell id="l4fF104fzbLj0hL4Hm0I-9" value="&lt;b&gt;LDAPS 636&amp;nbsp;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l4fF104fzbLj0hL4Hm0I-8">
           <mxGeometry x="-0.3642" relative="1" as="geometry">
-            <mxPoint x="-38" y="-88" as="offset" />
+            <mxPoint x="-91" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
@@ -150,6 +150,11 @@
         <mxCell id="3-LoxhDNB10_T1vt_YtL-8" value="&lt;b&gt;TCP&amp;nbsp;21114-21118&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTTPS 443&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3-LoxhDNB10_T1vt_YtL-7">
           <mxGeometry x="0.0639" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jorPd_oWalz_zpi3OWv1-0" value="&lt;b&gt;TCP&amp;nbsp;21114-21118&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTTPS 443&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3-LoxhDNB10_T1vt_YtL-7">
+          <mxGeometry x="0.0639" relative="1" as="geometry">
+            <mxPoint x="-444" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
@@ -204,7 +209,7 @@
           <mxGeometry x="162.19" y="634.2" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ulhCtUZuCfD6mtv_8ylz-0" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
-          <mxGeometry x="304" y="236.3" width="180" height="30" as="geometry" />
+          <mxGeometry x="304" y="220.10000000000002" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

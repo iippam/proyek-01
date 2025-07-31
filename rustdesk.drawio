@@ -209,7 +209,7 @@
           <mxGeometry x="162.19" y="634.2" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ulhCtUZuCfD6mtv_8ylz-0" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
-          <mxGeometry x="304" y="220.1" width="180" height="27.9" as="geometry" />
+          <mxGeometry x="300.25" y="225.23" width="180" height="27.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

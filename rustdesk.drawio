@@ -192,7 +192,7 @@
           <mxGeometry x="743" y="748.2" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-23" value="&lt;b&gt;Production Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
-          <mxGeometry x="125.5" y="72" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="120.75" y="83.55" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-24" value="&lt;b&gt;All rustdesk connections monitored via this server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="480.25" y="360" width="247.5" height="30" as="geometry" />
@@ -225,7 +225,7 @@
           <mxGeometry x="147.19" y="143.54999999999998" width="80" height="73.6" as="geometry" />
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-0" value="&lt;b&gt;Office Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
-          <mxGeometry x="129" y="477.19999999999993" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="56" y="477.19999999999993" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=light-dark(#ff0000, #ededed);" edge="1" parent="3-LoxhDNB10_T1vt_YtL-1" source="D2aXZ9xq3FnpnENe2fEj-1" target="3-LoxhDNB10_T1vt_YtL-16">
           <mxGeometry relative="1" as="geometry" />

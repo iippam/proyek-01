@@ -225,7 +225,7 @@
           <mxGeometry x="178.5" y="571.2" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-2" value="&lt;div&gt;PC Office&lt;/div&gt;&lt;div&gt;PCBTxxxx&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;points=[];" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
-          <mxGeometry x="160.5" y="680" width="51" height="52" as="geometry" />
+          <mxGeometry x="177.5" y="680" width="51" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

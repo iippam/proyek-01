@@ -149,7 +149,7 @@
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-8" value="&lt;b&gt;TCP&amp;nbsp;21114-21118&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTTPS 443&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3-LoxhDNB10_T1vt_YtL-7">
           <mxGeometry x="0.0639" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="20" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jorPd_oWalz_zpi3OWv1-0" value="&lt;b&gt;TCP&amp;nbsp;21114-21118&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTTPS 443&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3-LoxhDNB10_T1vt_YtL-7">

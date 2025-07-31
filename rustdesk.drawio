@@ -212,7 +212,7 @@
         <mxCell id="l4fF104fzbLj0hL4Hm0I-4" value="&lt;b&gt;Transfer Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="543" y="113.55" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l4fF104fzbLj0hL4Hm0I-6" value="LDAP Server&lt;div&gt;SVEPE0045&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
+        <mxCell id="l4fF104fzbLj0hL4Hm0I-6" value="LDAPS Server&lt;div&gt;SVEPE0045&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="144.5" y="284.4" width="80" height="73.6" as="geometry" />
         </mxCell>
       </root>

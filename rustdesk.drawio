@@ -182,9 +182,6 @@
         <mxCell id="3-LoxhDNB10_T1vt_YtL-27" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="977" y="240" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l4fF104fzbLj0hL4Hm0I-0" value="&lt;b&gt;Non - IT Engineer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;strokeWidth=2;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
-          <mxGeometry x="456" y="16" width="319.25" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="l4fF104fzbLj0hL4Hm0I-4" value="&lt;b&gt;3. Transfer Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="780.5" y="113.55" width="153" height="30" as="geometry" />
         </mxCell>

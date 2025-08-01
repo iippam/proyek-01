@@ -109,7 +109,7 @@
         <mxCell id="3-LoxhDNB10_T1vt_YtL-0" />
         <mxCell id="3-LoxhDNB10_T1vt_YtL-1" parent="3-LoxhDNB10_T1vt_YtL-0" />
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
-          <mxGeometry x="39.14" y="760" width="139.71" height="224" as="geometry" />
+          <mxGeometry x="39.14" y="751" width="139.71" height="224" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="16" y="120" width="480" height="560" as="geometry" />
@@ -192,7 +192,7 @@
           <mxGeometry x="331.31" y="136.52" width="77.7" height="71.48" as="geometry" />
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-0" value="&lt;b&gt;1.a Office Network&lt;/b&gt;&lt;div&gt;&lt;b&gt;Non - IT&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
-          <mxGeometry x="32" y="711.9999999999999" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="35" y="710.9999999999999" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=light-dark(#ff0000, #ededed);entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="3-LoxhDNB10_T1vt_YtL-1" source="D2aXZ9xq3FnpnENe2fEj-1" target="l4fF104fzbLj0hL4Hm0I-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -203,13 +203,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-1" value="Jump Host Office&lt;div&gt;SVBTxxxx&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
-          <mxGeometry x="85.04" y="769.2" width="50" height="46" as="geometry" />
+          <mxGeometry x="85.04" y="760.2" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" parent="3-LoxhDNB10_T1vt_YtL-1" source="D2aXZ9xq3FnpnENe2fEj-2" target="D2aXZ9xq3FnpnENe2fEj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-2" value="&lt;div&gt;PC Office&lt;/div&gt;&lt;div&gt;PCBTxxxx&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;points=[];" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
-          <mxGeometry x="85.04" y="883.2" width="51" height="52" as="geometry" />
+          <mxGeometry x="85.04" y="874.2" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ulhCtUZuCfD6mtv_8ylz-0" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="536" y="270.4" width="180" height="27.9" as="geometry" />
@@ -233,19 +233,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
-          <mxGeometry x="289.78999999999996" y="760" width="139.71" height="224" as="geometry" />
+          <mxGeometry x="289.78999999999996" y="751" width="139.71" height="224" as="geometry" />
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-2" value="Jump Host Office&lt;div&gt;SVBT8086&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
-          <mxGeometry x="334.64" y="776" width="50" height="46" as="geometry" />
+          <mxGeometry x="334.64" y="767" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3333FF;" edge="1" source="wu5Df8gryPoJb9p2pO1i-4" target="wu5Df8gryPoJb9p2pO1i-2" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-4" value="&lt;div&gt;PC Office&lt;/div&gt;&lt;div&gt;PCBTxxxx&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;points=[];" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
-          <mxGeometry x="334.69" y="883.2" width="51" height="52" as="geometry" />
+          <mxGeometry x="334.69" y="874.2" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-5" value="&lt;b&gt;1.b Office Network&lt;/b&gt;&lt;div&gt;&lt;b&gt;IT Engineer&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
-          <mxGeometry x="288.5" y="722.9999999999999" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="288.5" y="711.9999999999999" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="155.81" y="393" width="315.19" height="126.3" as="geometry" />

@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="528" y="221" />
-              <mxPoint x="528" y="167" />
+              <mxPoint x="528" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -191,7 +191,7 @@
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-0" value="&lt;b&gt;1. Office Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="56" y="591.9999999999999" width="142.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D2aXZ9xq3FnpnENe2fEj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=light-dark(#ff0000, #ededed);" parent="3-LoxhDNB10_T1vt_YtL-1" source="D2aXZ9xq3FnpnENe2fEj-1" target="3-LoxhDNB10_T1vt_YtL-16" edge="1">
+        <mxCell id="D2aXZ9xq3FnpnENe2fEj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=light-dark(#ff0000, #ededed);entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="3-LoxhDNB10_T1vt_YtL-1" source="D2aXZ9xq3FnpnENe2fEj-1" target="l4fF104fzbLj0hL4Hm0I-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-1" value="Jump Host Office&lt;div&gt;SVBTxxxx&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">

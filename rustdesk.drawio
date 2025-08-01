@@ -283,6 +283,11 @@
         <mxCell id="gb-Gp4UoRbIHFjIPRod--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#3333FF;strokeWidth=2;" edge="1" parent="3-LoxhDNB10_T1vt_YtL-1" source="CO6L0XNkpaxPt-U1w_ID-0" target="3-LoxhDNB10_T1vt_YtL-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gb-Gp4UoRbIHFjIPRod--2" value="&lt;b&gt;TCP&amp;nbsp;21114-21118&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTTPS 443&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gb-Gp4UoRbIHFjIPRod--0">
+          <mxGeometry x="-0.2349" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CO6L0XNkpaxPt-U1w_ID-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="240" y="536" width="251" height="120" as="geometry" />
         </mxCell>

@@ -152,11 +152,6 @@
             <mxPoint x="4" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jorPd_oWalz_zpi3OWv1-0" value="&lt;b&gt;TCP&amp;nbsp;21114-21118&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTTPS 443&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3-LoxhDNB10_T1vt_YtL-7" vertex="1" connectable="0">
-          <mxGeometry x="0.0639" relative="1" as="geometry">
-            <mxPoint x="-388" y="35" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="1128" y="164.3" width="200" height="174" as="geometry" />
         </mxCell>
@@ -223,6 +218,11 @@
               <mxPoint x="528" y="305" />
               <mxPoint x="528" y="259" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wfpb2nivmijsFGWgUFQu-5" value="&lt;b&gt;TCP&amp;nbsp;21114-21118&lt;/b&gt;&lt;div&gt;&lt;b&gt;HTTPS 443&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wfpb2nivmijsFGWgUFQu-2">
+          <mxGeometry x="0.5281" y="-1" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -244,7 +244,7 @@
         <mxCell id="wu5Df8gryPoJb9p2pO1i-5" value="&lt;b&gt;1.b Office Network&lt;/b&gt;&lt;div&gt;&lt;b&gt;IT Engineer&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="392.5" y="687.4499999999999" width="142.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wu5Df8gryPoJb9p2pO1i-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
+        <mxCell id="wu5Df8gryPoJb9p2pO1i-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="259.81" y="368.45" width="315.19" height="126.3" as="geometry" />
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3333FF;" edge="1" parent="3-LoxhDNB10_T1vt_YtL-1" source="wu5Df8gryPoJb9p2pO1i-7" target="wu5Df8gryPoJb9p2pO1i-8">

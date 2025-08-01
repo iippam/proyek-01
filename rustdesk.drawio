@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Non_IT" id="FanDDi8V9vraBD87bYRL">
-    <mxGraphModel dx="1378" dy="752" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1969" dy="1074" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-0" />
         <mxCell id="3-LoxhDNB10_T1vt_YtL-1" parent="3-LoxhDNB10_T1vt_YtL-0" />
@@ -156,13 +156,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
-          <mxGeometry x="1177" y="168" width="200" height="170.3" as="geometry" />
+          <mxGeometry x="1157" y="169.7" width="200" height="170.3" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
-          <mxGeometry x="1218.55" y="197.3" width="118.95" height="101" as="geometry" />
+          <mxGeometry x="1198.55" y="199" width="118.95" height="101" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-15" value="&lt;b&gt;4. Machine Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
-          <mxGeometry x="1208.01" y="113.55" width="137.98" height="30" as="geometry" />
+          <mxGeometry x="1188.01" y="115.25" width="137.98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-16" value="Jump host Production&lt;div&gt;Rustdesk Controller Installed&lt;/div&gt;&lt;div&gt;&lt;b&gt;SVEPE0120&lt;/b&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="84" y="245.3" width="50" height="46" as="geometry" />
@@ -171,7 +171,7 @@
           <mxGeometry x="815" y="192.7" width="77.5" height="71.3" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-19" value="&lt;div&gt;Rustdesk Agent&lt;/div&gt;Machine PC" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;points=[];aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
-          <mxGeometry x="1251.5" y="198.10000000000002" width="51" height="52" as="geometry" />
+          <mxGeometry x="1231.5" y="199.8" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-23" value="&lt;b&gt;2. Production Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="120.75" y="83.55" width="142.5" height="30" as="geometry" />

@@ -297,6 +297,9 @@
         <mxCell id="CO6L0XNkpaxPt-U1w_ID-2" value="&lt;div&gt;Rustdesk Agent&lt;/div&gt;&lt;b&gt;PCEPE2345&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;points=[];aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="281" y="550" width="51" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="gb-Gp4UoRbIHFjIPRod--3" value="&lt;div&gt;&lt;b&gt;Firewall Ruleset Required!&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
+          <mxGeometry x="616" y="544" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

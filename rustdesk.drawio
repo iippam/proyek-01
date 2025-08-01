@@ -164,7 +164,7 @@
         <mxCell id="3-LoxhDNB10_T1vt_YtL-15" value="&lt;b&gt;4. Machine Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="1208.01" y="113.55" width="137.98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3-LoxhDNB10_T1vt_YtL-16" value="Jump host Production&lt;div&gt;Rustdesk Controller Installed&lt;/div&gt;&lt;div&gt;SVEPE0120&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
+        <mxCell id="3-LoxhDNB10_T1vt_YtL-16" value="Jump host Production&lt;div&gt;Rustdesk Controller Installed&lt;/div&gt;&lt;div&gt;&lt;b&gt;SVEPE0120&lt;/b&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="84" y="245.3" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-17" value="Rustdesk Server&lt;br&gt;&lt;div&gt;Signaling Server&lt;br&gt;HTTPS API Server&lt;br&gt;&lt;b&gt;SVEPE0097&lt;/b&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
@@ -188,7 +188,7 @@
         <mxCell id="l4fF104fzbLj0hL4Hm0I-4" value="&lt;b&gt;3. Transfer Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="780.5" y="113.55" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l4fF104fzbLj0hL4Hm0I-6" value="LDAPS Server&lt;div&gt;SVEPE0045&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
+        <mxCell id="l4fF104fzbLj0hL4Hm0I-6" value="LDAPS Server&lt;div&gt;&lt;b&gt;SVEPE0045&lt;/b&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="331.31" y="136.52" width="77.7" height="71.48" as="geometry" />
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-0" value="&lt;b&gt;1.a Office Network&lt;/b&gt;&lt;div&gt;&lt;b&gt;Non - IT&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
@@ -217,7 +217,7 @@
         <mxCell id="4hDdSkzWJkBbhdmdgCcf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="311" y="270.3" width="120" height="109.7" as="geometry" />
         </mxCell>
-        <mxCell id="4hDdSkzWJkBbhdmdgCcf-2" value="PGSQL&lt;div&gt;SVEPE0154&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
+        <mxCell id="4hDdSkzWJkBbhdmdgCcf-2" value="PGSQL&lt;div&gt;&lt;b&gt;SVEPE0154&lt;/b&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="338.31" y="277.47" width="67.97" height="62.53" as="geometry" />
         </mxCell>
         <mxCell id="Wfpb2nivmijsFGWgUFQu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=light-dark(#ff0000, #ededed);" edge="1" parent="3-LoxhDNB10_T1vt_YtL-1" source="l4fF104fzbLj0hL4Hm0I-7" target="3-LoxhDNB10_T1vt_YtL-6">
@@ -235,7 +235,7 @@
         <mxCell id="wu5Df8gryPoJb9p2pO1i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="289.78999999999996" y="760" width="139.71" height="224" as="geometry" />
         </mxCell>
-        <mxCell id="wu5Df8gryPoJb9p2pO1i-2" value="Jump Host Office&lt;div&gt;SVBTxxxx&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
+        <mxCell id="wu5Df8gryPoJb9p2pO1i-2" value="Jump Host Office&lt;div&gt;SVBT8086&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="334.64" y="776" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3333FF;" edge="1" source="wu5Df8gryPoJb9p2pO1i-4" target="wu5Df8gryPoJb9p2pO1i-2" parent="3-LoxhDNB10_T1vt_YtL-1">
@@ -253,7 +253,7 @@
         <mxCell id="wu5Df8gryPoJb9p2pO1i-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3333FF;" edge="1" parent="3-LoxhDNB10_T1vt_YtL-1" source="wu5Df8gryPoJb9p2pO1i-7" target="wu5Df8gryPoJb9p2pO1i-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wu5Df8gryPoJb9p2pO1i-7" value="Jump host Production&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SVEPE0110&lt;/span&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
+        <mxCell id="wu5Df8gryPoJb9p2pO1i-7" value="Jump host Production&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;SVEPE0110&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="203.71" y="408" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="_Lg5PNNuK2DYUrPXzZ9y-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#3333FF;" edge="1" parent="3-LoxhDNB10_T1vt_YtL-1" source="wu5Df8gryPoJb9p2pO1i-8" target="3-LoxhDNB10_T1vt_YtL-6">
@@ -269,7 +269,7 @@
             <mxPoint x="16" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wu5Df8gryPoJb9p2pO1i-8" value="WAPT Console&lt;div&gt;Rustdesk Controller Installed&lt;/div&gt;&lt;div&gt;SVEPE0113&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
+        <mxCell id="wu5Df8gryPoJb9p2pO1i-8" value="WAPT Console&lt;div&gt;Rustdesk Controller Installed&lt;/div&gt;&lt;div&gt;&lt;b&gt;SVEPE0113&lt;/b&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="361.31" y="408" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#3333FF;" edge="1" parent="3-LoxhDNB10_T1vt_YtL-1" source="wu5Df8gryPoJb9p2pO1i-2" target="wu5Df8gryPoJb9p2pO1i-7">
@@ -291,10 +291,10 @@
         <mxCell id="CO6L0XNkpaxPt-U1w_ID-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="240" y="536" width="251" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CO6L0XNkpaxPt-U1w_ID-1" value="&lt;div&gt;Rustdesk Agent&lt;/div&gt;PCEPE1234" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;points=[];" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
+        <mxCell id="CO6L0XNkpaxPt-U1w_ID-1" value="&lt;div&gt;Rustdesk Agent&lt;/div&gt;&lt;b&gt;PCEPE1234&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;points=[];" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="414" y="552" width="51" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="CO6L0XNkpaxPt-U1w_ID-2" value="&lt;div&gt;Rustdesk Agent&lt;/div&gt;PCEPE2345" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;points=[];aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
+        <mxCell id="CO6L0XNkpaxPt-U1w_ID-2" value="&lt;div&gt;Rustdesk Agent&lt;/div&gt;&lt;b&gt;PCEPE2345&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;points=[];aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="268" y="550" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="CO6L0XNkpaxPt-U1w_ID-3" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">

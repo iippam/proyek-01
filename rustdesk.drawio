@@ -202,7 +202,7 @@
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-1" value="Jump Host Office&lt;div&gt;SVBTxxxx&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="85.9" y="617.2" width="50" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="D2aXZ9xq3FnpnENe2fEj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="3-LoxhDNB10_T1vt_YtL-1" source="D2aXZ9xq3FnpnENe2fEj-2" target="D2aXZ9xq3FnpnENe2fEj-1" edge="1">
+        <mxCell id="D2aXZ9xq3FnpnENe2fEj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" parent="3-LoxhDNB10_T1vt_YtL-1" source="D2aXZ9xq3FnpnENe2fEj-2" target="D2aXZ9xq3FnpnENe2fEj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D2aXZ9xq3FnpnENe2fEj-2" value="&lt;div&gt;PC Office&lt;/div&gt;&lt;div&gt;PCBTxxxx&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;points=[];" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
@@ -235,7 +235,7 @@
         <mxCell id="wu5Df8gryPoJb9p2pO1i-2" value="Jump Host Office&lt;div&gt;SVBTxxxx&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="353.14" y="624" width="50" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="wu5Df8gryPoJb9p2pO1i-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" source="wu5Df8gryPoJb9p2pO1i-4" target="wu5Df8gryPoJb9p2pO1i-2" parent="3-LoxhDNB10_T1vt_YtL-1">
+        <mxCell id="wu5Df8gryPoJb9p2pO1i-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3333FF;" edge="1" source="wu5Df8gryPoJb9p2pO1i-4" target="wu5Df8gryPoJb9p2pO1i-2" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-4" value="&lt;div&gt;PC Office&lt;/div&gt;&lt;div&gt;PCBTxxxx&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=image;labelBackgroundColor=default;aspect=fixed;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;points=[];" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">

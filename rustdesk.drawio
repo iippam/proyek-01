@@ -248,8 +248,13 @@
         <mxCell id="wu5Df8gryPoJb9p2pO1i-7" value="Jump host Production&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SVEPE0110&lt;/span&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="203.71" y="408" width="50" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="wu5Df8gryPoJb9p2pO1i-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3-LoxhDNB10_T1vt_YtL-1" source="wu5Df8gryPoJb9p2pO1i-8" target="3-LoxhDNB10_T1vt_YtL-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_Lg5PNNuK2DYUrPXzZ9y-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="3-LoxhDNB10_T1vt_YtL-1" source="wu5Df8gryPoJb9p2pO1i-8" target="3-LoxhDNB10_T1vt_YtL-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="688" y="431" />
+              <mxPoint x="688" y="334" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wu5Df8gryPoJb9p2pO1i-8" value="WAPT Console&lt;div&gt;Rustdesk Controller Installed&lt;/div&gt;&lt;div&gt;SVEPE0113&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="3-LoxhDNB10_T1vt_YtL-1">
           <mxGeometry x="361.31" y="408" width="50" height="46" as="geometry" />

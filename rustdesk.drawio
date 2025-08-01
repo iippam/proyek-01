@@ -174,7 +174,7 @@
           <mxGeometry x="1335.5" y="175.25" width="51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-23" value="&lt;b&gt;2. Production Network&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
-          <mxGeometry x="224.75" y="59" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="271.5" y="59" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3-LoxhDNB10_T1vt_YtL-24" value="&lt;b&gt;All rustdesk connections monitored via this server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3-LoxhDNB10_T1vt_YtL-1" vertex="1">
           <mxGeometry x="841.25" y="327.45" width="247.5" height="30" as="geometry" />

@@ -317,7 +317,7 @@
             <mxPoint x="-3" y="-91" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fSiyP1hzjfQLcsueb7H7-15" parent="3-LoxhDNB10_T1vt_YtL-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;b&gt;If you want a direct connection from the EPCOS network at the office, a firewall ruleset is required.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;However, if the computer is connected via Ivanti/VPN, a firewall ruleset is not required (as a ruleset has already been created for this purpose).&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="fSiyP1hzjfQLcsueb7H7-15" parent="3-LoxhDNB10_T1vt_YtL-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;b&gt;If you want a direct connection from the EPCOS network at the office to jumphost SVEPE0120, a firewall ruleset is required.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;However, if the computer is connected via Ivanti/VPN, a firewall ruleset is not required (as a ruleset has already been created for this purpose).&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="27.9" width="180" x="85.99999999999997" y="1008" as="geometry" />
         </mxCell>
       </root>
